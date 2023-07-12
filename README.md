@@ -1,7 +1,10 @@
 ﻿# Language-Translator
  Software Used : Android Studio
- Apis Used : Google translate,Dictionary
+ 
+ Apis Used: Googletranslate,Dictionary
+ 
  Database : Firebase 
+ 
  Features :
 1. Translation from 10 languages to more than 10 languages.
 2. Speech input
