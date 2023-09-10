@@ -1,6 +1,6 @@
 # Translator App
 
-![Translator App Logo](translator-app-logo.png)
+![Translator App Logo](app/src/main/ic_launcher-playstore.png)
 
 **Translator App** is a user-friendly mobile application developed using Android Studio, which utilizes various APIs, including Google Translate and Dictionary, to provide seamless translation services. This versatile app aims to bridge language barriers and facilitate effective communication across multiple languages. Whether you're traveling, learning a new language, or need quick translations, this app has you covered.
 
